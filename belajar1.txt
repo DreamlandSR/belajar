@@ -1,3 +1,6 @@
 Baris 3
 Baris 2
 Baris 1
+baris 10
+baris 9
+baris 8
